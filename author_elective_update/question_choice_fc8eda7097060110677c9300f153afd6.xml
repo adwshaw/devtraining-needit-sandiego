@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="What type of equipment do you require?">32ad9e7097060110677c9300f153afed</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>AndrewA</sys_created_by>
+        <sys_created_on>2022-03-03 01:17:04</sys_created_on>
+        <sys_id>fc8eda7097060110677c9300f153afd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Multi room external seminar</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>question_choice_fc8eda7097060110677c9300f153afd6</sys_update_name>
+        <sys_updated_by>AndrewA</sys_updated_by>
+        <sys_updated_on>2022-03-03 01:17:04</sys_updated_on>
+        <text>Multi room external seminar</text>
+        <value>external_seminar</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=fc8eda7097060110677c9300f153afd6"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>fc8eda7097060110677c9300f153afd6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>AndrewA</sys_created_by>
+        <sys_created_on>2022-03-03 01:17:04</sys_created_on>
+        <sys_id>479e1ef097060110677c9300f153af97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AndrewA</sys_updated_by>
+        <sys_updated_on>2022-03-03 01:17:04</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>fc8eda7097060110677c9300f153afd6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>AndrewA</sys_created_by>
+        <sys_created_on>2022-03-03 01:17:04</sys_created_on>
+        <sys_id>0f9e1ef097060110677c9300f153af96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AndrewA</sys_updated_by>
+        <sys_updated_on>2022-03-03 01:17:04</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ea4c43efdb2a0c149df22f17d49619e0</instance_id>
+        <instance_name>dev98506</instance_name>
+        <name>question_choice_fc8eda7097060110677c9300f153afd6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>300</order><published_ref/><question display_value="What type of equipment do you require?">32ad9e7097060110677c9300f153afed</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>AndrewA</sys_created_by><sys_created_on>2022-03-03 01:17:04</sys_created_on><sys_id>fc8eda7097060110677c9300f153afd6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Multi room external seminar</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>question_choice_fc8eda7097060110677c9300f153afd6</sys_update_name><sys_updated_by>AndrewA</sys_updated_by><sys_updated_on>2022-03-03 01:17:04</sys_updated_on><text>Multi room external seminar</text><value>external_seminar</value></question_choice><fx_price action="delete_multiple" query="id=fc8eda7097060110677c9300f153afd6"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>fc8eda7097060110677c9300f153afd6</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>AndrewA</sys_created_by><sys_created_on>2022-03-03 01:17:04</sys_created_on><sys_id>479e1ef097060110677c9300f153af97</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>AndrewA</sys_updated_by><sys_updated_on>2022-03-03 01:17:04</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>fc8eda7097060110677c9300f153afd6</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>AndrewA</sys_created_by><sys_created_on>2022-03-03 01:17:04</sys_created_on><sys_id>0f9e1ef097060110677c9300f153af96</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>AndrewA</sys_updated_by><sys_updated_on>2022-03-03 01:17:04</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>566515516</payload_hash>
+        <record_name>Multi room external seminar</record_name>
+        <reverted_from/>
+        <source>9c935cd797710110677c9300f153af1d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>AndrewA</sys_created_by>
+        <sys_created_on>2022-03-03 01:17:04</sys_created_on>
+        <sys_id>879e1ef097060110677c9300f153af99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f4d5a19ad0000001</sys_recorded_at>
+        <sys_updated_by>AndrewA</sys_updated_by>
+        <sys_updated_on>2022-03-03 01:17:04</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>cf9e1ef07d060110c99834eb51d27b98</update_guid>
+        <update_guid_history>cf9e1ef07d060110c99834eb51d27b98:566515516</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Multi room external seminar">0f2f1a3497060110677c9300f153af91</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AndrewA</sys_created_by>
+        <sys_created_on>2022-03-03 01:19:32</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>3ea024a6ddc649dd955be48cf91111f9</sys_id>
+        <sys_metadata>fc8eda7097060110677c9300f153afd6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Multi room external seminar</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Which of the below does your request relate to?">32ad9e7097060110677c9300f153afed</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>question_choice_fc8eda7097060110677c9300f153afd6</sys_update_name>
+        <sys_update_version display_value="question_choice_fc8eda7097060110677c9300f153afd6">879e1ef097060110677c9300f153af99</sys_update_version>
+        <sys_updated_by>AndrewA</sys_updated_by>
+        <sys_updated_on>2022-03-03 01:19:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
